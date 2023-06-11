@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": 101,
+      "title": "json-server10",
+      "author": "typicode1"
+    },
+    {
+      "id": 201,
+      "title": "json-server2",
+      "author": "typicode2"
+    },
+    {
+      "id": 301,
+      "title": "json-server3",
+      "author": "typicode3"
+    },
+    {
+      "id": 401,
+      "title": "json-server4",
+      "author": "typicode4"
+    },
+    {
+      "id": 501,
+      "title": "json-server5",
+      "author": "typicode5"
+    }
+  ]
+}
